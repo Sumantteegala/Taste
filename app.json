@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Taste",
+    "slug": "Taste",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Taste"
+}
